@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arburns88
-- Im an enthusiastic web developer with interests in networking and security
-- Also want to expand into programming especially exploring the python language
+- Im a computer science major at Sonoma State University
+- Im super interested in cybersecurity, web development and programming
